@@ -26,13 +26,13 @@ get_header();
 
 <div class="jump-section">
     <h4>Jump To:</h4>
+    <button type="button" class="btn jump-btn" onclick="location.href='#traditional-upright'">Traditional Upright Headstones</button>
     <button type="button" class="btn jump-btn" onclick="location.href='#flat-markers'">Flat Markers</button>
     <button type="button" class="btn jump-btn" onclick="location.href='#bevel-markers'">Bevel Markers</button>
     <button type="button" class="btn jump-btn" onclick="location.href='#slant-markers'">Slant Markers</button>
+    <button type="button" class="btn jump-btn" onclick="location.href='#teardrop-heart'">Teardrop and Heart Uprights</button>
     <button type="button" class="btn jump-btn" onclick="location.href='#infant-markers'">Infant Markers</button>
     <button type="button" class="btn jump-btn" onclick="location.href='#pet-markers'">Pet Markers</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#traditional-upright'">Traditional Upright Headstones</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#teardrop-heart'">Teardrop and Heart Uprights</button>
     <button type="button" class="btn jump-btn" onclick="location.href='#mausoleums'">Mausoleums</button>
     <button type="button" class="btn jump-btn" onclick="location.href='#bench'">Bench Memorials</button>
     <button type="button" class="btn jump-btn" onclick="location.href='#cremation'">Cremation Memorials</button>
