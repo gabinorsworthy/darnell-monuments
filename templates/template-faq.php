@@ -25,6 +25,9 @@ get_header();
 <div class="section faq-section">
 
     <div class="accordion" id="faq" role="tablist" aria-multiselectable="true">
+
+        <h3 class="faq-heading">Choosing Your Monument</h3>
+        
         <!-- Question 1 -->
         <div class="card mb-3">
             <div class="card-header" role="tab" id="questionOne">
@@ -72,19 +75,18 @@ get_header();
                 </h5>
             </div>
         </div>
-
+    
         <!-- Question 3 -->
         <div class="card mb-3">
             <div class="card-header" role="tab" id="questionThree">
                 <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseThree" aria-expanded="false" area-controls="collapseThree">
-                    Do I have to pay upfront?
+                    Do I have to buy a monument from the funeral home or cemetery?
                 </a>
             </div>
 
             <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="questionThree" data-parent="#faq">
                 <h5 class="card-body">
-                    We require half payment at the time the order is placed. The second
-                    half is required when the monument is placed in the cemetery.
+                    No, they are lawfully unable to force you to purchase a monument from them.
                 </h5>
             </div>
         </div>
@@ -93,42 +95,11 @@ get_header();
         <div class="card mb-3">
             <div class="card-header" role="tab" id="questionFour">
                 <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseFour" aria-expanded="false" area-controls="collapseFour">
-                    Does Darnell Monuments only sell stones?
-                </a>
-            </div>
-
-            <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="questionFour" data-parent="#faq">
-                <h5 class="card-body">
-                    We also have accessories such as flower vases, foot stones, cornerstones,
-                    memorial photos, etc.
-                </h5>
-            </div>
-        </div>
-    
-        <!-- Question 5 -->
-        <div class="card mb-3">
-            <div class="card-header" role="tab" id="questionFive">
-                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseFive" aria-expanded="false" area-controls="collapseFive">
-                    Do I have to buy a monument from the funeral home or cemetery?
-                </a>
-            </div>
-
-            <div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="questionFive" data-parent="#faq">
-                <h5 class="card-body">
-                    No, they are lawfully unable to force you to purchase a monument from them.
-                </h5>
-            </div>
-        </div>
-
-        <!-- Question 6 -->
-        <div class="card mb-3">
-            <div class="card-header" role="tab" id="questionSix">
-                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseSix" aria-expanded="false" area-controls="collapseSix">
                     What do I need to know when purchasing a monument?
                 </a>
             </div>
 
-            <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="questionSix" data-parent="#faq">
+            <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="questionFour" data-parent="#faq">
                 <h5 class="card-body">
                     Some cemeteries have restrictions. You need to check with your cemetery to see what the
                     guidelines are. Next, you will need to decide on the shape, size, and color of
@@ -137,45 +108,48 @@ get_header();
             </div>
         </div>
 
-        <!-- Question 7 -->
+        <h3 class="faq-heading">More on Our Products</h3>
+
+        <!-- Question 5 -->
         <div class="card mb-3">
-            <div class="card-header" role="tab" id="questionSeven">
-                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseSeven" aria-expanded="false" area-controls="collapseSeven">
-                    What forms of payment do you accept?
+            <div class="card-header" role="tab" id="questionFive">
+                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseFive" aria-expanded="false" area-controls="collapseFive">
+                    Does Darnell Monuments only sell stones?
                 </a>
             </div>
 
-            <div id="collapseSeven" class="collapse" role="tabpanel" aria-labelledby="questionSeven" data-parent="#faq">
+            <div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="questionFive" data-parent="#faq">
                 <h5 class="card-body">
-                    We accept a check, cash, or money order.
+                    We also have accessories such as flower vases, foot stones, cornerstones,
+                    memorial photos, etc.
                 </h5>
             </div>
         </div>
 
-        <!-- Question 8 -->
+        <!-- Question 6 -->
         <div class="card mb-3">
-            <div class="card-header" role="tab" id="questionEight">
-                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseEight" aria-expanded="false" area-controls="collapseEight">
+            <div class="card-header" role="tab" id="questionSix">
+                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseSix" aria-expanded="false" area-controls="collapseSix">
                     How can I order a custom monument?
                 </a>
             </div>
 
-            <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="questionEight" data-parent="#faq">
+            <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="questionSix" data-parent="#faq">
                 <h5 class="card-body">
                     Contact us! We can help you design a completely custom monument.
                 </h5>
             </div>
         </div>
 
-        <!-- Question 9 -->
+        <!-- Question 7 -->
         <div class="card mb-3">
-            <div class="card-header" role="tab" id="questionNine">
-                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseNine" aria-expanded="false" area-controls="collapseNine">
+            <div class="card-header" role="tab" id="questionSeven">
+                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseSeven" aria-expanded="false" area-controls="collapseSeven">
                     What materials are used in monuments?
                 </a>
             </div>
 
-            <div id="collapseNine" class="collapse" role="tabpanel" aria-labelledby="questionNine" data-parent="#faq">
+            <div id="collapseSeven" class="collapse" role="tabpanel" aria-labelledby="questionSeven" data-parent="#faq">
                 <h5 class="card-body">
                     Granite is the most popular type
                     of monument. Granite withstands extreme climates and temperatures.
@@ -183,15 +157,17 @@ get_header();
             </div>
         </div>
 
-        <!-- Question 10 -->
+        <h3 class="faq-heading">Pricing and Payment</h3>
+
+        <!-- Question 8 -->
         <div class="card mb-3">
-            <div class="card-header" role="tab" id="questionTen">
-                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseTen" aria-expanded="false" area-controls="collapseTen">
+            <div class="card-header" role="tab" id="questionEight">
+                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseEight" aria-expanded="false" area-controls="collapseEight">
                     What is the expected cost of a monument?
                 </a>
             </div>
 
-            <div id="collapseTen" class="collapse" role="tabpanel" aria-labelledby="questionTen" data-parent="#faq">
+            <div id="collapseEight" class="collapse" role="tabpanel" aria-labelledby="questionEight" data-parent="#faq">
                 <h5 class="card-body">
                     The cost of the monument will
                     depend on the size, shape, and color that you choose. For more
@@ -200,18 +176,49 @@ get_header();
             </div>
         </div>
 
+        <!-- Question 9 -->
+        <div class="card mb-3">
+            <div class="card-header" role="tab" id="questionNine">
+                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseNine" aria-expanded="false" area-controls="collapseNine">
+                    Is the final death date included in the price?
+                </a>
+            </div>
+
+            <div id="collapseNine" class="collapse" role="tabpanel" aria-labelledby="questionNine" data-parent="#faq">
+                <h5 class="card-body">
+                    The price of the final date lettering for a pre-need monument
+                    is not included in the original price of the monument.
+                </h5>
+            </div>
+        </div>
+
+        <!-- Question 10 -->
+        <div class="card mb-3">
+            <div class="card-header" role="tab" id="questionTen">
+                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseTen" aria-expanded="false" area-controls="collapseTen">
+                    Do I have to pay upfront?
+                </a>
+            </div>
+
+            <div id="collapseTen" class="collapse" role="tabpanel" aria-labelledby="questionTen" data-parent="#faq">
+                <h5 class="card-body">
+                    We require half payment at the time the order is placed. The second
+                    half is required when the monument is placed in the cemetery.
+                </h5>
+            </div>
+        </div>
+
         <!-- Question 11 -->
         <div class="card mb-3">
             <div class="card-header" role="tab" id="questionEleven">
                 <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseEleven" aria-expanded="false" area-controls="collapseEleven">
-                    Is the final death date included in the price?
+                    What forms of payment do you accept?
                 </a>
             </div>
 
             <div id="collapseEleven" class="collapse" role="tabpanel" aria-labelledby="questionEleven" data-parent="#faq">
                 <h5 class="card-body">
-                    The price of the final date lettering for a pre-need monument
-                    is not included in the original price of the monument.
+                    We accept a check, cash, or money order.
                 </h5>
             </div>
         </div>
