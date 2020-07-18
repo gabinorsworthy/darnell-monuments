@@ -41,21 +41,60 @@ get_header();
 </div>
 
 <div>
-    <!-- FLAT MARKERS -->
-    <div class="section" id="flat-markers">
+
+    <!-- TRADITIONAL UPRIGHT -->
+    <div class="section" id="traditional-upright">
 
         <div class="section-image product-image-left carousel slide" id="carouselProducts" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional1.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional2.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional3.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional4.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional5.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional6.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional7.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional8.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional9.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional10.jpg"></div>
+            </div>
+        </div>
+
+        <div class="section-text">
+            <h1 class="section-title">Traditional Upright Headstones</h1>
+            
+            <h4 class="description">
+                Traditional Upright Headstones are the most popular. They consist of a tall and
+                standing upright which is the die. It is supported by a sturdy base. The die and
+                base are usually the same color. The most popular style is the Serptop shape with
+                all polished sides or both the front and back polished, with the sides and top
+                rough. These headstones can be as large or small as you desire, as long as it meets
+                your cemetery regulations. We can engrave any desired pattern or artwork on the
+                traditional upright and the engraving is included in the price. The price of the
+                traditional upright will depend on the size that you choose.
+            </h4>
+
+            <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
+        </div>
+
+    </div>
+
+    <!-- FLAT MARKERS -->
+    <div class="section reverse-section" id="flat-markers">
+
+        <div class="section-image product-image-right carousel slide" id="carouselProducts" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat2.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat3.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat4.jpg"></div>
             </div>
+            
         </div>
 
         <div class="section-text">
             <h1 class="section-title">Flat Markers</h1>
-             
+            
             <h4 class="description">
                 Flat markers are the simplest and most economical type of monument. They are
                 set flat and flush to the ground. They are rectangle in shape, polished surface with
@@ -71,21 +110,20 @@ get_header();
     </div>
 
     <!-- BEVEL MARKERS -->
-    <div class="section reverse-section" id="bevel-markers">
+    <div class="section" id="bevel-markers">
 
-        <div class="section-image product-image-right carousel slide" id="carouselProducts" data-ride="carousel">
+        <div class="section-image product-image-left carousel slide" id="carouselProducts" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel2.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel3.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel4.jpg"></div>
             </div>
-            
         </div>
 
         <div class="section-text">
             <h1 class="section-title">Bevel Markers</h1>
-             
+            
             <h4 class="description">
                 Bevels are like the flat marker. They lay flat to the ground and have a polished
                 face on the top and natural, rough edges. The face is slanted with the back edge
@@ -101,116 +139,27 @@ get_header();
     </div>
 
     <!-- SLANT MARKERS -->
-    <div class="section" id="slant-markers">
+    <div class="section reverse-section" id="slant-markers">
 
-        <div class="section-image product-image-left carousel slide" id="carouselProducts" data-ride="carousel">
+        <div class="section-image product-image-right carousel slide" id="carouselProducts" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant2.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant3.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant4.jpg"></div>
             </div>
+            
         </div>
 
         <div class="section-text">
             <h1 class="section-title">Slant Markers</h1>
-             
+            
             <h4 class="description">
                 Slant markers are set to stand upright. They have a slanted, polished face, natural,
                 rough edges, and a serp top with a straight back. They are installed on a concrete
                 foundation or on a granite base. We can engrave any desired pattern or artwork
                 on the slant and the engraving is included in the price. The price of the slant will
                 depend on the size that you choose.
-            </h4>
-
-            <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
-        </div>
-
-    </div>
-
-    <!-- INFANT MARKERS -->
-    <div class="section reverse-section" id="infant-markers">
-
-        <div class="section-image product-image-right carousel slide" id="carouselProducts" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant1.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant2.jpg"></div>
-            </div>
-            
-        </div>
-
-        <div class="section-text">
-            <h1 class="section-title">Infant Markers</h1>
-             
-            <h4 class="description">
-                Infant markers are the most simple and affordable. They are usually used in the
-                graves of infants, babies, or young children. They are usually square or rectangle
-                in shape and 3 inches thick, with a polished surface with natural, rough sides. We
-                can engrave any desired pattern or artwork on the infant markers, and engraving
-                is included in the price.
-            </h4>
-
-            <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
-        </div>
-
-    </div>
-
-    <!-- PET MARKERS -->
-    <div class="section" id="pet-markers">
-
-        <div class="section-image product-image-left carousel slide" id="carouselProducts" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active"><img src="https://via.placeholder.com/200x200.png"></div>
-                <div class="carousel-item"><img src="https://via.placeholder.com/200x200.png"></div>
-                <div class="carousel-item"><img src="https://via.placeholder.com/200x200.png"></div>
-            </div>
-        </div>
-
-        <div class="section-text">
-            <h1 class="section-title">Pet Markers</h1>
-             
-            <h4 class="description">
-                Pet markers are similar to flat markers, usually a flat rectangle. Whether your pet
-                is a dog, cat, horse, rabbit, bird, etc., we can help you remember how special they
-                are.
-            </h4>
-
-            <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
-        </div>
-
-    </div>
-
-    <!-- TRADITIONAL UPRIGHT-->
-    <div class="section reverse-section" id="traditional-upright">
-
-        <div class="section-image product-image-right carousel slide" id="carouselProducts" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional1.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional2.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional3.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional4.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional5.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional6.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional7.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional8.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional9.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional10.jpg"></div>
-            </div>
-            
-        </div>
-
-        <div class="section-text">
-            <h1 class="section-title">Traditional Upright Headstones</h1>
-             
-            <h4 class="description">
-                Traditional Upright Headstones are the most popular. They consist of a tall and
-                standing upright which is the die. It is supported by a sturdy base. The die and
-                base are usually the same color. The most popular style is the Serptop shape with
-                all polished sides or both the front and back polished, with the sides and top
-                rough. These headstones can be as large or small as you desire, as long as it meets
-                your cemetery regulations. We can engrave any desired pattern or artwork on the
-                traditional upright and the engraving is included in the price. The price of the
-                traditional upright will depend on the size that you choose.
             </h4>
 
             <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
@@ -239,7 +188,7 @@ get_header();
 
         <div class="section-text">
             <h1 class="section-title">Teardrop and Heart Uprights</h1>
-             
+            
             <h4 class="description">
                 There is a large selection of specialized headstone uprights. For someone looking
                 for the most unique and beautiful headstones, we can help you find what you are
@@ -257,6 +206,58 @@ get_header();
         </div>
 
     </div>
+
+    <!-- INFANT MARKERS -->
+    <div class="section reverse-section" id="infant-markers">
+
+        <div class="section-image product-image-right carousel slide" id="carouselProducts" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant1.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant2.jpg"></div>
+            </div>
+            
+        </div>
+
+        <div class="section-text">
+            <h1 class="section-title">Infant Markers</h1>
+            
+            <h4 class="description">
+                Infant markers are the most simple and affordable. They are usually used in the
+                graves of infants, babies, or young children. They are usually square or rectangle
+                in shape and 3 inches thick, with a polished surface with natural, rough sides. We
+                can engrave any desired pattern or artwork on the infant markers, and engraving
+                is included in the price.
+            </h4>
+
+            <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
+        </div>
+
+    </div>
+
+    <!-- PET MARKERS -->
+    <div class="section" id="pet-markers">
+
+        <div class="section-image product-image-left carousel slide" id="carouselProducts" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active"><img src="https://via.placeholder.com/200x200.png"></div>
+                <div class="carousel-item"><img src="https://via.placeholder.com/200x200.png"></div>
+                <div class="carousel-item"><img src="https://via.placeholder.com/200x200.png"></div>
+            </div>
+        </div>
+
+        <div class="section-text">
+            <h1 class="section-title">Pet Markers</h1>
+            
+            <h4 class="description">
+                Pet markers are similar to flat markers, usually a flat rectangle. Whether your pet
+                is a dog, cat, horse, rabbit, bird, etc., we can help you remember how special they
+                are.
+            </h4>
+
+            <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
+        </div>
+
+    </div>    
 
     <!-- MAUSOLEUMS -->
     <div class="section reverse-section" id="mausoleums">
