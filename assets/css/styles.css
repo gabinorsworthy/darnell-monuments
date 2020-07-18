@@ -188,7 +188,7 @@ img {
     /*
     margin-top: 50px;
     margin-right: 10%;
-    margin-left: 10%;
+    margin-left: 10%;aft
     */
 }
 
@@ -362,6 +362,19 @@ a.question {
 
 a:hover {
     color: rgb(184, 184, 184);
+}
+
+.faq-heading {
+    margin: 50px  0 25px;
+}
+
+.faq-heading:after {
+    background-color: #57BC90;
+    content: "";
+    width: 7rem;
+    height: 3px;
+    display: block;
+    margin-top: 1rem;
 }
 /*
 .question:after {
