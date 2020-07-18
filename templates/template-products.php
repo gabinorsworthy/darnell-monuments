@@ -197,7 +197,7 @@ get_header();
                 artwork on the teardrop, heart, or any special headstone upright and the
                 engraving is included in the price. The price of the teardrop and heart upright will
                 depend on the size that you choose.
-
+                <br/><br/>
                 We have includes a few pictures of teardrop and heart uprights and other
                 specialized headstones that we have done.
             </h4>

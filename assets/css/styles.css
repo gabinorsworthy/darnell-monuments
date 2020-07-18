@@ -184,9 +184,12 @@ img {
 }
 
 .jump-section {
+    margin: 5% 10%;
+    /*
     margin-top: 50px;
     margin-right: 10%;
     margin-left: 10%;
+    */
 }
 
 .return-to-top {
