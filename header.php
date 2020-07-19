@@ -6,6 +6,8 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>Darnell Monuments</title>
 
+        <link href="https://fonts.googleapis.com/css2?family=Lora:wght@600&family=Montserrat:wght@400&display=swap" rel="stylesheet">
+
         <?php wp_head();?>
 
     </head>
