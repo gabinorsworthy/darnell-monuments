@@ -16,7 +16,7 @@
             </div>
 
             <div class="section-text">
-                <h1 class="section-title">DARNELL MONUMENTS</h1>
+                <h1 class="section-title">Darnell Monuments</h1>
                 <p></p>
                 <h4 class="description">
                     This should be a short description about Darnell
@@ -47,7 +47,7 @@
             </div>
             
             <div class="section-text">
-                <h1 class="section-title">OUR PRODUCTS</h1>
+                <h1 class="section-title">Our Products</h1>
                 <p></p>
                 <h4 class="description">
                     This will be a short description on your products.
