@@ -24,7 +24,7 @@
                     <li class="quicklink">Mayfield, KY, 12345</li>
                 </ul>
 
-                <ul class="quicklinks">
+                <ul class="quicklinks hours">
                     <li class="quicklink-title">HOURS</li>
                     <li class="quicklink">Monday-Friday</li>
                     <li class="quicklink">XX:XX-YY:YY</li>
@@ -49,6 +49,12 @@
                     <li class="quicklink"><a class="footer-link" href="about">About</a></li>
                     <li class="quicklink"><a class="footer-link" href="faq">FAQ</a></li>
                     <li class="quicklink"><a class="footer-link" href="contact-us">Contact Us</a></li>
+                </ul>
+
+                <ul class="quicklinks hours-responsive">
+                    <li class="quicklink-title">HOURS</li>
+                    <li class="quicklink">Monday-Friday</li>
+                    <li class="quicklink">XX:XX-YY:YY</li>
                 </ul>
 
             </div>
