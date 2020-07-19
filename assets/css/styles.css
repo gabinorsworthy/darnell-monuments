@@ -468,6 +468,7 @@ a:hover {
     flex-wrap: wrap;
     align-items: flex-start;
     padding: 3rem 3rem 0;
+    justify-content: center;
 }
 
 .footer-logo {
@@ -493,6 +494,7 @@ a:hover {
 
 .quote-bottom {
     font-weight: 450;
+    font-size: calc(1rem + .25vw);
 }
 
 .footer-quicklinks {
@@ -511,9 +513,75 @@ ul {
 
 .quicklink-title {
     font-weight: 500;
+    font-size: 1.1rem;
     margin-bottom: .5rem;
 }
 
 a, a:hover {
     text-decoration: none;
+}
+
+.hours-responsive {
+    display: none
+}
+
+@media (max-width: 1670px) {
+    .footer {
+        align-items: center;
+    }
+    .footer-maininfo {
+        padding-right: 0;
+    }
+}
+
+@media (max-width: 755px){
+    .footer-quicklinks {
+        padding-left: 0;
+        padding-right: 0;
+        flex-wrap: wrap;
+    }
+
+    .hours {
+        display: none;
+    }
+
+    .hours-responsive {
+        display: block;
+    }
+
+    .footer-maininfo {
+        padding-left: 0;
+    }
+    
+    .footer-logo {
+        padding: 0;
+    }
+}
+
+@media (max-width: 400px) {
+
+
+    .footer-quicklinks {
+        display: block;
+    }
+
+    .quicklinks:not(:last-child) {
+        margin-right: 0;
+    }
+
+    .quicklink-title {
+        margin: 0;
+    }
+
+    .footer {
+        display: block;
+    }
+
+    .hours {
+        display: block;
+    }
+
+    .hours-responsive {
+        display: none;
+    }
 }
