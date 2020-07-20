@@ -133,7 +133,6 @@ a.active {
 }
 
 .header-container {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://via.placeholder.com/1000x400.png');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -176,8 +175,12 @@ a.active {
     display: flex;
     flex-wrap: wrap;
     margin-bottom: 200px;
+    margin-right: 5%;
+    margin-left: 5%;
+    /*
     margin-right: 10%;
     margin-left: 10%;
+    */
 }
 
 .products-section, .reverse-section {
@@ -325,7 +328,6 @@ img {
     margin-bottom: 25px;
     
 }
-
 .product-img {
     margin: 25px;
     max-width: 250px;
