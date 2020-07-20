@@ -1,10 +1,11 @@
 <?php get_header();?>
         
         <!-- HEADER IMAGE -->
-        <div class="header-container text-center">
+        <div class="header-container text-center" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('<?php bloginfo('template_directory'); ?>/assets/images/hero.jpg');">
             <div class="header-description">
                 <h1 class="hero-text">This space will be dedicated to a short one-sentence description of the site/product.</h1>
                 <button type="button" class="header-btn btn" onclick="location.href ='products'">View Products</button>
+                
             </div>
         </div>
         
@@ -12,7 +13,7 @@
         <div class="section first-section">
 
             <div class="section-image about-image">
-                <img class="about-img" src="https://via.placeholder.com/200x200.png">
+                <img class="about-img" src="<?php bloginfo('template_directory'); ?>/assets/images/summary-img.jpg">
             </div>
 
             <div class="section-text">
