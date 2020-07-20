@@ -587,3 +587,24 @@ a, a:hover {
         display: none;
     }
 }
+
+/* home page */
+@media (max-width: 1100px) {
+    .first-section {
+        margin-top: 20%;
+    }
+
+    .section {
+        justify-content: center;
+        margin-bottom: 30%;
+    }
+
+    .section-image, .section-text {
+        width: 100%;
+        min-width: 100%;
+    }
+
+    .section-image {
+        padding: 10% 0;
+    }
+}
