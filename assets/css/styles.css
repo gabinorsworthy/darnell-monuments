@@ -608,6 +608,10 @@ a, a:hover {
     .jump-btn {
         padding: 0px 25px;
     }
+
+    .footer-maininfo {
+        padding-left: 0;
+    }
 }
 
 @media (max-width: 755px){
@@ -623,7 +627,13 @@ a, a:hover {
 
     .hours-responsive {
         display: block;
+        margin-right: 0;
     }
+
+    .footer-nav {
+        margin-right: 4rem;
+    }
+
 
     .footer-maininfo {
         padding-left: 0;
@@ -638,7 +648,8 @@ a, a:hover {
     }
 }
 
-@media (max-width: 400px) {
+/*@media (max-width: 400px) {*/
+@media (max-width: 500px) {
 
 
     .footer-quicklinks {
@@ -649,6 +660,7 @@ a, a:hover {
         margin-right: 0;
     }
 
+    
     .quicklink-title {
         margin: 0;
     }
