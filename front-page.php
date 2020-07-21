@@ -42,6 +42,15 @@
                     <div class="carousel-item"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/slant1.jpg"></div>
                     <div class="carousel-item"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/etchings2.jpg"></div>
                     <div class="carousel-item"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/bench3.jpg"></div>
+
+                    <a class="carousel-control-prev" href="#carouselProducts" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselProducts" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
                 </div>
                 
             </div>
