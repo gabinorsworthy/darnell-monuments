@@ -2,7 +2,7 @@
         
         <div class="footer">
                 <div class="footer-logo">
-                    <img class="footer-img" src="<?php bloginfo('template_directory'); ?>/assets/images/DarnellMonumentsLogo.jpg">
+                    <img class="footer-img" src="<?php bloginfo('template_directory'); ?>/assets/images/logo-transparent-white.png">
                 </div>
 
 
@@ -19,18 +19,19 @@
                 <ul class="quicklinks">
                     <li class="quicklink-title">CONTACT</li>
                     <li class="quicklink">darnell.monuments@yahoo.com</li>
-                    <li class="quicklink">(123) 456-7890</li>
-                    <li class="quicklink">123 Main St</li>
-                    <li class="quicklink">Mayfield, KY, 12345</li>
+                    <li class="quicklink quicklink-break">(270) 247-8858</li>
+                    <li class="quicklink">227 Fox Rd</li>
+                    <li class="quicklink">Mayfield, KY 42066</li>
                 </ul>
 
                 <ul class="quicklinks hours">
                     <li class="quicklink-title">HOURS</li>
+                    <li class="quicklink quicklink-break"><i>Open by Appointments only</i></li>
                     <li class="quicklink">Monday-Friday</li>
-                    <li class="quicklink">XX:XX-YY:YY</li>
+                    <li class="quicklink">9:00 a.m. - 4:30 p.m.</li>
                 </ul>
 
-                <ul class="quicklinks">
+                <ul class="quicklinks footer-nav">
                     <li class="quicklink-title">QUICKLINKS</li>
                     <li class="quicklink"><a class="footer-link" href=
                         
@@ -53,8 +54,9 @@
 
                 <ul class="quicklinks hours-responsive">
                     <li class="quicklink-title">HOURS</li>
+                    <li class="quicklink"><i>Open by Appointments only</i></li>
                     <li class="quicklink">Monday-Friday</li>
-                    <li class="quicklink">XX:XX-YY:YY</li>
+                    <li class="quicklink">9:00 a.m. - 4:30 p.m.</li>
                 </ul>
 
             </div>

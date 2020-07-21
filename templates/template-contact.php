@@ -25,7 +25,7 @@ get_header();
 <div class="section contact-section reverse-section">
 
     <div class="contact-section-image contact-image">
-        <img src="https://via.placeholder.com/400x200.png">
+        <img src="<?php bloginfo('template_directory'); ?>/assets/images/summary-img.jpg">
     </div>
 
     <div class="contact-section-text">
@@ -33,16 +33,17 @@ get_header();
             
         <h4 class="description">
             <strong>Hours:</strong><br>
+            <i>Open By Appointment Only</i><br>
             Monday-Friday<br>
-            XX:XX - YY:YY<br><br>
+            9:00 a.m. - 4:30 p.m.<br><br>
 
-            <strong>Phone: </strong>123-456-7890<br>
-            <strong>Fax: </strong>123-456-7890<br>
+            <strong>Phone: </strong>270-247-8858<br>
+            <strong>Fax: </strong>270-247-8858<br>
             <strong>Email: </strong>darnellmonuments@yahoo.com<br><br>
 
             <strong>Address:</strong><br>
-            123 Main St<br>
-            Mayfield, KY
+            227 Fox Road<br>
+            Mayfield, KY 42066
         </h4>
     </div>
 
