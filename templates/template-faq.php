@@ -46,17 +46,26 @@ get_header();
                     <br/><br/>
                     The second step is to choose the color. The variety of colors are gray, black,
                     brown, red, green, blue, and many more. The gray is the most economical.
+                    <br/><br/>
                     You can also decide between polished or rough sides.
                     <br/><br/>
                     The third step is to decide on the wording and design. Options are the basic
                     information such as names and dates. Other options are simple verses, poems,
                     comments or pictures of hobbies, interests, etc. We have many examples to
                     choose from.
+                    <br/><br/>
+                    Once you decide on the design of your monument. You will receive a computer
+                    generated printout by mail, text, or email. This will allow you to see what your
+                    design will look like. This is also an opportunity for you to proof the spelling and
+                    dates and the final look of the design. We will ask you to sign the printout and
+                    return it, or text, or email that you approve of the design. This will allow us to
+                    start work on the monument once half payment is made.
                 </h5>
             </div>
         </div>
 
         <!-- Question 2 -->
+        <!--
         <div class="card mb-3">
             <div class="card-header" role="tab" id="questionTwo">
                 <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseTwo" aria-expanded="false" area-controls="collapseTwo">
@@ -75,6 +84,7 @@ get_header();
                 </h5>
             </div>
         </div>
+-->
     
         <!-- Question 3 -->
         <div class="card mb-3">
@@ -110,18 +120,85 @@ get_header();
 
         <h3 class="faq-heading">More on Our Products</h3>
 
+        <!-- Question Online -->
+        <div class="card mb-3">
+            <div class="card-header" role="tab" id="questionOnline">
+                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseOnline" aria-expanded="false" area-controls="collapseOnline">
+                    Do you sell online?
+                </a>
+            </div>
+
+            <div id="collapseOnline" class="collapse" role="tabpanel" aria-labelledby="questionOnline" data-parent="#faq">
+                <h5 class="card-body">
+                    Yes, we sell small markers on-line. Small markers are a great economical way to
+                    honor a loved one especially if you want to create your own personal memory
+                    garden on your own property. Also, these 5 X 10 markers make excellent pet
+                    stones. These small granite markers can also be engraved with addresses, special
+                    dates, memory verses, nick names, even titles of special songs. The possibilities
+                    are endless.
+                </h5>
+            </div>
+        </div>
+
+        <!-- Question 9 -->
+        <div class="card mb-3">
+            <div class="card-header" role="tab" id="questionNine">
+                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseNine" aria-expanded="false" area-controls="collapseNine">
+                    Do you do death dates?
+                </a>
+            </div>
+
+            <div id="collapseNine" class="collapse" role="tabpanel" aria-labelledby="questionNine" data-parent="#faq">
+                <h5 class="card-body">
+                    Our prices do not include cutting death dates after work is set in cemetery. Also,
+                    we do not cut death dates on stones already set in cemetery. If you need a death
+                    date, we refer a work order to someone who does death dates.
+                </h5>
+            </div>
+        </div>
+
         <!-- Question 5 -->
         <div class="card mb-3">
             <div class="card-header" role="tab" id="questionFive">
                 <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseFive" aria-expanded="false" area-controls="collapseFive">
-                    Does Darnell Monuments only sell stones?
+                    Do you have vases and foot stones?
                 </a>
             </div>
 
             <div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="questionFive" data-parent="#faq">
                 <h5 class="card-body">
-                    We also have accessories such as flower vases, foot stones, cornerstones,
-                    memorial photos, etc.
+                    We have accessories such as flower vases, foot stones, and cornerstones.
+                </h5>
+            </div>
+        </div>
+
+        <!-- Question Engraving -->
+        <div class="card mb-3">
+            <div class="card-header" role="tab" id="questionEngraving">
+                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseEngraving" aria-expanded="false" area-controls="collapseEngraving">
+                    Do you do your own engraving?
+                </a>
+            </div>
+
+            <div id="collapseEngraving" class="collapse" role="tabpanel" aria-labelledby="questionEngraving" data-parent="#faq">
+                <h5 class="card-body">
+                    We do the engraving on-site. Our granite is from the finest quarries and we define
+                    craftsmanship.
+                </h5>
+            </div>
+        </div>
+
+        <!-- Question Etchings -->
+        <div class="card mb-3">
+            <div class="card-header" role="tab" id="questionEtchings">
+                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseEtchings" aria-expanded="false" area-controls="collapseEtchings">
+                    Do you offer porcelain pictures and etchings?
+                </a>
+            </div>
+
+            <div id="collapseEtchings" class="collapse" role="tabpanel" aria-labelledby="questionEtchings" data-parent="#faq">
+                <h5 class="card-body">
+                    Yes.
                 </h5>
             </div>
         </div>
@@ -176,34 +253,19 @@ get_header();
             </div>
         </div>
 
-        <!-- Question 9 -->
-        <div class="card mb-3">
-            <div class="card-header" role="tab" id="questionNine">
-                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseNine" aria-expanded="false" area-controls="collapseNine">
-                    Is the final death date included in the price?
-                </a>
-            </div>
-
-            <div id="collapseNine" class="collapse" role="tabpanel" aria-labelledby="questionNine" data-parent="#faq">
-                <h5 class="card-body">
-                    The price of the final date lettering for a pre-need monument
-                    is not included in the original price of the monument.
-                </h5>
-            </div>
-        </div>
-
         <!-- Question 10 -->
         <div class="card mb-3">
             <div class="card-header" role="tab" id="questionTen">
                 <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseTen" aria-expanded="false" area-controls="collapseTen">
-                    Do I have to pay upfront?
+                    When is payment required and do you accept credit card?
                 </a>
             </div>
 
             <div id="collapseTen" class="collapse" role="tabpanel" aria-labelledby="questionTen" data-parent="#faq">
                 <h5 class="card-body">
-                    We require half payment at the time the order is placed. The second
-                    half is required when the monument is placed in the cemetery.
+                    We require half payment at the time the order is placed. The second half is
+                    required when the monument is placed in the cemetery. We do not accept credit
+                    cards. We accept cash, checks, and money orders.
                 </h5>
             </div>
         </div>
@@ -212,13 +274,15 @@ get_header();
         <div class="card mb-3">
             <div class="card-header" role="tab" id="questionEleven">
                 <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseEleven" aria-expanded="false" area-controls="collapseEleven">
-                    What forms of payment do you accept?
+                    Do you chorge for lettering and setting the stone?
                 </a>
             </div>
 
             <div id="collapseEleven" class="collapse" role="tabpanel" aria-labelledby="questionEleven" data-parent="#faq">
                 <h5 class="card-body">
-                    We accept a check, cash, or money order.
+                    Our prices include the lettering and setting of the stone within a 60 mile radius.
+                    There is no per letter charge. There could be an additional charge for excessive
+                    lettering or for setting the stone outside a 60 mile radius.
                 </h5>
             </div>
         </div>

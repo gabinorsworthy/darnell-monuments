@@ -509,13 +509,21 @@ ul {
     padding: 0;
 }
 
-.quicklinks:not(:last-child) {
+.quicklinks {
     margin-right: 4rem;
+}
+
+.footer-nav {
+    margin-right: 0;
 }
 
 .quicklink-title {
     font-weight: 500;
     font-size: 1.1rem;
+    margin-bottom: .5rem;
+}
+
+.quicklink-break {
     margin-bottom: .5rem;
 }
 
@@ -604,7 +612,7 @@ a, a:hover {
         display: block;
     }
 
-    .quicklinks:not(:last-child) {
+    .quicklinks:not(:last-child), .footer-nav {
         margin-right: 0;
     }
 

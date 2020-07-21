@@ -69,7 +69,7 @@ get_header();
                 base are usually the same color. The most popular style is the Serptop shape with
                 all polished sides or both the front and back polished, with the sides and top
                 rough. These headstones can be as large or small as you desire, as long as it meets
-                your cemetery regulations. We can engrave any desired pattern or artwork on the
+                your cemetery regulations. We can engrave desired pattern or artwork on the
                 traditional upright and the engraving is included in the price. The price of the
                 traditional upright will depend on the size that you choose.
             </h4>
@@ -98,10 +98,10 @@ get_header();
             <h4 class="description">
                 Flat markers are the simplest and most economical type of monument. They are
                 set flat and flush to the ground. They are rectangle in shape, polished surface with
-                natural, rough sides, and usually 3-4 inches thick. We can engrave any desired
-                pattern or artwork such as flowers, flags, natural scenery, portraits, religious
-                symbols, hobbies, etc. The engraving is included in the price. The price of the flat
-                marker will depend on the size that you choose.
+                natural, rough sides, and usually 3-4 inches thick. We can engrave desired pattern
+                or artwork such as flowers, flags, natural scenery, portraits, religious symbols,
+                hobbies, etc. The engraving is included in the price. The price of the flat marker
+                will depend on the size that you choose.
             </h4>
 
             <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
@@ -128,7 +128,7 @@ get_header();
                 Bevels are like the flat marker. They lay flat to the ground and have a polished
                 face on the top and natural, rough edges. The face is slanted with the back edge
                 raised higher than the front, which gives it a small upright appearance. As with all
-                markers, we can engrave any desired pattern or artwork on the bevel and the
+                markers, we can engrave desired pattern or artwork on the bevel and the
                 engraving is included in the price. The price of the bevel will depend on the size
                 that you choose.
             </h4>
@@ -156,9 +156,9 @@ get_header();
             
             <h4 class="description">
                 Slant markers are set to stand upright. They have a slanted, polished face, natural,
-                rough edges, and a serp top with a straight back. They are installed on a concrete
-                foundation or on a granite base. We can engrave any desired pattern or artwork
-                on the slant and the engraving is included in the price. The price of the slant will
+                rough edges, serp top with a straight back. They are installed on a concrete
+                foundation or on a granite base. We can engrave desired pattern or artwork on
+                the slant and the engraving is included in the price. The price of the slant will
                 depend on the size that you choose.
             </h4>
 
@@ -193,7 +193,7 @@ get_header();
                 There is a large selection of specialized headstone uprights. For someone looking
                 for the most unique and beautiful headstones, we can help you find what you are
                 looking for. The teardrop and heart uprights are two examples of the many
-                specialized headstones that are available. We can engrave any desired pattern or
+                specialized headstones that are available. We can engrave desired pattern or
                 artwork on the teardrop, heart, or any special headstone upright and the
                 engraving is included in the price. The price of the teardrop and heart upright will
                 depend on the size that you choose.
@@ -222,11 +222,10 @@ get_header();
             <h1 class="section-title">Infant Markers</h1>
             
             <h4 class="description">
-                Infant markers are the most simple and affordable. They are usually used in the
-                graves of infants, babies, or young children. They are usually square or rectangle
-                in shape and 3 inches thick, with a polished surface with natural, rough sides. We
-                can engrave any desired pattern or artwork on the infant markers, and engraving
-                is included in the price.
+                Infant markers are usually used in the graves of infants, babies, or young children.
+                They are usually square or rectangle in shape and 4 inches thick, with a polished
+                surface with natural, rough sides. We can engrave desired pattern or artwork on
+                the infant markers, and engraving is included in the price.
             </h4>
 
             <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
@@ -239,9 +238,8 @@ get_header();
 
         <div class="section-image product-image-left carousel slide" id="carouselProducts" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="carousel-item active"><img src="https://via.placeholder.com/200x200.png"></div>
-                <div class="carousel-item"><img src="https://via.placeholder.com/200x200.png"></div>
-                <div class="carousel-item"><img src="https://via.placeholder.com/200x200.png"></div>
+                <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/pet1.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/pet2.jpg"></div>
             </div>
         </div>
 
@@ -273,7 +271,9 @@ get_header();
             <h1 class="section-title">Mausoleums</h1>
              
             <h4 class="description">
-                Mausoleums are granite structures designed for burial above the ground.
+                Mausoleums are granite structures designed for burial above the ground. Crypt
+                or mausoleum designs are available in a variety of styles and can be custom
+                designed for two to eight crypts.
             </h4>
 
             <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
@@ -296,10 +296,10 @@ get_header();
             <h1 class="section-title">Bench Memorials</h1>
              
             <h4 class="description">
-                Bench memorials are used as a grave maker and seen as a comforting place to sit
-                peacefully and reflect on memories shared. We can engrave any desired pattern
-                or artwork on the bench and the engraving is included in the price. The price of
-                the bench will depend on the style and size that you choose.
+                Bench memorials are used as a grave marker and seen as a comforting place to sit
+                peacefully and reflect on memories shared. We can engrave desired pattern or
+                artwork on the bench and the engraving is included in the price. The price of the
+                bench will depend on the style and size that you choose.
             </h4>
 
             <button type="button" class="btn" onclick="location.href ='contact-us'">Contact Us</button>
@@ -323,7 +323,7 @@ get_header();
             <h4 class="description">
                 Cremation memorials include a small space (or niche) to permanently house the
                 ashes of the departed. They are above ground and sealed from the elements. We
-                can engrave any desired pattern or artwork on the cremation memorial and the
+                can engrave desired pattern or artwork on the cremation memorial and the
                 engraving is included in the price. The price of the cremation memorial will
                 depend on the style and size that you choose.
             </h4>
@@ -338,9 +338,8 @@ get_header();
 
         <div class="section-image product-image-left carousel slide" id="carouselProducts" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="carousel-item active"><img src="https://via.placeholder.com/200x200.png"></div>
-                <div class="carousel-item"><img src="https://via.placeholder.com/200x200.png"></div>
-                <div class="carousel-item"><img src="https://via.placeholder.com/200x200.png"></div>
+                <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/etchings1.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/etchings2.jpg"></div>
             </div>
         </div>
 
@@ -348,7 +347,11 @@ get_header();
             <h1 class="section-title">Portraits and Etchings</h1>
              
             <h4 class="description">
-                Ceramic or porcelains portraits and etchings are available.
+                Ceramic or porcelains portraits and etchings are available. Our ceramic photos are
+                made by firing the decals onto porcelain at extremely high temperatures in a kiln.
+                They are guaranteed against fading and made to endure all conditions. We use a
+                very reputable company. Etchings are also available. Laser etchings can render
+                images of most forms and for best results. black granite is recommended.
             </h4>
 
             <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
@@ -361,9 +364,8 @@ get_header();
 
         <div class="section-image product-image-right carousel slide" id="carouselProducts" data-ride="carousel">
             <div class="carousel-inner">
-                <div class="carousel-item active"><img src="https://via.placeholder.com/200x200.png"></div>
-                <div class="carousel-item"><img src="https://via.placeholder.com/200x200.png"></div>
-                <div class="carousel-item"><img src="https://via.placeholder.com/200x200.png"></div>
+                <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/vases1.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/vases2.jpg"></div>
             </div>
             
         </div>
@@ -373,12 +375,8 @@ get_header();
              
             <h4 class="description">
                 We have square and rounded vases in granite. We can get any color to match
-                your monument. Accessories are available in aluminum, and even plastic, but we
-                do not recommend them because they deteriorate due to the elements.
-
-                Our prices include the lettering and setting of the stone. There is no per letter
-                charge. There could be a limitation on excessive lettering and the setting of the
-                stone has to be within a 60 mile radius.
+                your monument. Accessories are available in aluminum, but we do not
+                recommend them because they deteriorate due to the elements.
             </h4>
 
             <button type="button" class="btn" onclick="location.href='contact-us'">Contact Us</button>
