@@ -208,12 +208,15 @@ a.active {
     width: 50%
 }
 
-.section-title {
+.section-title, .faq-heading {
     color: #25371F;
     font-size: calc(1rem + 2vw);
     font-weight: bold;
-    margin: 0 0 40px;
     font-family:'Lora';
+}
+
+.section-title {
+    margin: 0 0 40px;
 }
 
 .section-title:after {
@@ -426,6 +429,7 @@ a:hover {
 
 .faq-heading {
     margin: 50px  0 25px;
+    font-size: calc(1.25rem + 1.2vw);
 }
 
 .faq-heading:after {
