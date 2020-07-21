@@ -303,6 +303,15 @@ img {
 
 .contact-section-image {
     width: 60%;
+    min-width: 600px;
+}
+
+.contact-pg-section {
+    margin-bottom: 5%;
+}
+
+.contact-no-break {
+    margin-bottom: 0;
 }
 
 
@@ -545,6 +554,26 @@ a, a:hover {
     }
     .footer-maininfo {
         padding-right: 0;
+    }
+}
+
+@media (max-width: 1200px) {
+    .contact-section-image {
+        width: 100%;
+        min-width: 100%;
+    }
+
+    .contact-section-text {
+        width: 100%;
+    }
+
+    .contact-description {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .contact-pg-section:not(:last-child) {
+        margin-right: 5%;
     }
 }
 

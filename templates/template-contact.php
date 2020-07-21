@@ -22,29 +22,37 @@ get_header();
 </div>
 -->
 <!-- CONTACT INFO -->
-<div class="section contact-section reverse-section">
+<div class="section contact-section">
 
-    <div class="contact-section-image contact-image">
-        <img src="<?php bloginfo('template_directory'); ?>/assets/images/summary-img.jpg">
-    </div>
+    
 
     <div class="contact-section-text">
         <h1 class="section-title">Get in touch!</h1>
             
-        <h4 class="description">
-            <strong>Hours:</strong><br>
-            <i>Open By Appointment Only</i><br>
-            Monday-Friday<br>
-            9:00 a.m. - 4:30 p.m.<br><br>
+        <div class="contact-description">
+            <div class="contact-pg-section">
+                <h4><strong>Phone: </strong><a class="contact-link" href="tel:2702478858">270-247-8858</a></h4>
+                <h4><strong>Fax: </strong>270-247-8858</h4>
+                <h4><strong>Email: </strong><a class="contact-link" href="mailto:darnellmonuments@yahoo.com">darnellmonuments@yahoo.com</a></h4>
+            </div>
 
-            <strong>Phone: </strong><a class="contact-link" href="tel:2702478858">270-247-8858</a><br>
-            <strong>Fax: </strong>270-247-8858<br>
-            <strong>Email: </strong><a class="contact-link" href="mailto:darnellmonuments@yahoo.com">darnellmonuments@yahoo.com</a><br><br>
+            <div class="contact-pg-section">
+                <h4><strong>Hours:</strong></h4>
+                <h4><i>Open By Appointment Only</i></h4>
+                <h4 class="contact-no-break">Monday-Friday</h4>
+                <h4>9:00 a.m. - 4:30 p.m.</h4>
+            </div>
 
-            <strong>Address:</strong><br>
-            227 Fox Road<br>
-            Mayfield, KY 42066
-        </h4>
+            <div class="contact-pg-section">
+                <h4><strong>Address:</strong></h4>
+                <h4 class="contact-no-break">227 Fox Road</h4>
+                <h4>Mayfield, KY 42066</h4>
+            </div>
+        </div>
+    </div>
+
+    <div class="contact-section-image contact-image">
+        <img src="<?php bloginfo('template_directory'); ?>/assets/images/summary-img.jpg">
     </div>
 
 </div>
