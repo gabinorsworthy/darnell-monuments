@@ -232,7 +232,7 @@ a.active {
     transform: translate(-50%);
 }
 
-h4, h5 {
+h4, h5, a.contact-link {
     color: #4F4F4F;
 }
 

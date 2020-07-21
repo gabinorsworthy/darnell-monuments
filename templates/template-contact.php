@@ -37,9 +37,9 @@ get_header();
             Monday-Friday<br>
             9:00 a.m. - 4:30 p.m.<br><br>
 
-            <strong>Phone: </strong>270-247-8858<br>
+            <strong>Phone: </strong><a class="contact-link" href="tel:2702478858">270-247-8858</a><br>
             <strong>Fax: </strong>270-247-8858<br>
-            <strong>Email: </strong>darnellmonuments@yahoo.com<br><br>
+            <strong>Email: </strong><a class="contact-link" href="mailto:darnellmonuments@yahoo.com">darnellmonuments@yahoo.com</a><br><br>
 
             <strong>Address:</strong><br>
             227 Fox Road<br>
