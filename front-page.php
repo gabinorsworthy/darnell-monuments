@@ -33,7 +33,7 @@
         <!-- PRODUCTS SECTION -->
         <div class="section products-section">
 
-            <div class="section-image products-image carousel slide" id="carouselProducts" data-ride="carousel">
+            <div class="section-image products-image carousel slide" id="carouselProducts" data-interval="false">
                 <div class="carousel-inner">
                     <div class="carousel-item active"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/traditional8.jpg"></div>
                     <div class="carousel-item"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/heart6.jpg"></div>
