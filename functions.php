@@ -17,6 +17,9 @@ function addjs() {
     wp_register_script('jquery', get_template_directory_uri() . '/assets/js/jquery-3.4.1.slim.min.js', array(), 1, 1, 1);
     wp_enqueue_script('jquery');
 
+    wp_register_script('jquery2', get_template_directory_uri() . '/assets/js/jquery.js', array(), 1, 1, 1);
+    wp_enqueue_script('jquery2');
+
     wp_register_script('bootstrap', get_template_directory_uri() . '/assets/js/bootstrap.min.js', array(), 1, 1, 1);
     wp_enqueue_script('bootstrap');
 

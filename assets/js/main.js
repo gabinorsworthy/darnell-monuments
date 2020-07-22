@@ -10,3 +10,27 @@ function myFunction() {
         navList.classList.add("change");
     }
 }
+
+$(".return-to-top-button").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#jump-to").offset().top
+    }, 2000);
+});
+
+$(".jump-btn").click(function() {
+    var btnHTML = $(this).html();
+    var htmlLower = btnHTML.toLowerCase();
+    var htmlWords = htmlLower.split(" ");
+    console.log(htmlWords);
+    var productID = "#"
+
+    for (i = 0; i < htmlWords.length - 1; i++) {
+        productID += htmlWords[i] + "-";
+    }
+    productID += htmlWords[htmlWords.length - 1];
+
+    $('html, body').animate({
+        scrollTop: $(productID).offset().top
+    }, 2000);
+    
+});
