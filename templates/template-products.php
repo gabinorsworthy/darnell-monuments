@@ -45,7 +45,7 @@ get_header();
     <!-- TRADITIONAL UPRIGHT -->
     <div class="section" id="traditional-upright">
 
-        <div class="section-image product-image-left carousel slide" id="carouselTraditional" data-ride="carousel">
+        <div class="section-image product-image-left carousel slide" id="carouselTraditional" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional2.jpg"></div>
@@ -91,7 +91,7 @@ get_header();
     <!-- FLAT MARKERS -->
     <div class="section reverse-section" id="flat-markers">
 
-        <div class="section-image product-image-right carousel slide" id="carouselFlat" data-ride="carousel">
+        <div class="section-image product-image-right carousel slide" id="carouselFlat" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat2.jpg"></div>
@@ -130,7 +130,7 @@ get_header();
     <!-- BEVEL MARKERS -->
     <div class="section" id="bevel-markers">
 
-        <div class="section-image product-image-left carousel slide" id="carouselBevel" data-ride="carousel">
+        <div class="section-image product-image-left carousel slide" id="carouselBevel" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel2.jpg"></div>
@@ -168,7 +168,7 @@ get_header();
     <!-- SLANT MARKERS -->
     <div class="section reverse-section" id="slant-markers">
 
-        <div class="section-image product-image-right carousel slide" id="carouselSlant" data-ride="carousel">
+        <div class="section-image product-image-right carousel slide" id="carouselSlant" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant2.jpg"></div>
@@ -206,7 +206,7 @@ get_header();
     <!-- TEARDROP AND HEART UPRIGHTS -->
     <div class="section" id="teardrop-heart">
 
-        <div class="section-image product-image-left carousel slide" id="carouselSpecial" data-ride="carousel">
+        <div class="section-image product-image-left carousel slide" id="carouselSpecial" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/teardrop1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/teardrop2.jpg"></div>
@@ -255,7 +255,7 @@ get_header();
     <!-- INFANT MARKERS -->
     <div class="section reverse-section" id="infant-markers">
 
-        <div class="section-image product-image-right carousel slide" id="carouselInfant" data-ride="carousel">
+        <div class="section-image product-image-right carousel slide" id="carouselInfant" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant2.jpg"></div>
@@ -290,7 +290,7 @@ get_header();
     <!-- PET MARKERS -->
     <div class="section" id="pet-markers">
 
-        <div class="section-image product-image-left carousel slide" id="carouselPet" data-ride="carousel">
+        <div class="section-image product-image-left carousel slide" id="carouselPet" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/pet1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/pet2.jpg"></div>
@@ -323,7 +323,7 @@ get_header();
     <!-- MAUSOLEUMS -->
     <div class="section reverse-section" id="mausoleums">
 
-        <div class="section-image product-image-right carousel slide" id="carouselMasoleums" data-ride="carousel">
+        <div class="section-image product-image-right carousel slide" id="carouselMasoleums" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/mausoleum.jpg"></div>
 
@@ -356,7 +356,7 @@ get_header();
     <!-- BENCH MEMORIALS -->
     <div class="section" id="bench">
 
-        <div class="section-image product-image-left carousel slide" id="carouselBench" data-ride="carousel">
+        <div class="section-image product-image-left carousel slide" id="carouselBench" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bench1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bench2.jpg"></div>
@@ -391,7 +391,7 @@ get_header();
     <!-- CREMATION MEMORIALS -->
     <div class="section reverse-section" id="cremation">
 
-        <div class="section-image product-image-right carousel slide" id="carouselCremation" data-ride="carousel">
+        <div class="section-image product-image-right carousel slide" id="carouselCremation" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/cremation.jpg"></div>
 
@@ -426,7 +426,7 @@ get_header();
     <!-- PORTRAITS AND ETCHINGS -->
     <div class="section" id="portraits-etchings">
 
-        <div class="section-image product-image-left carousel slide" id="carouselEtchings" data-ride="carousel">
+        <div class="section-image product-image-left carousel slide" id="carouselEtchings" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/etchings1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/etchings2.jpg"></div>
@@ -461,7 +461,7 @@ get_header();
     <!-- VASES-->
     <div class="section reverse-section" id="vases">
 
-        <div class="section-image product-image-right carousel slide" id="carouselVases" data-ride="carousel">
+        <div class="section-image product-image-right carousel slide" id="carouselVases" data-interval="false">
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/vases1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/vases2.jpg"></div>
