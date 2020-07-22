@@ -26,24 +26,24 @@ get_header();
 
 <div class="jump-section">
     <h4>Jump To:</h4>
-    <button type="button" class="btn jump-btn" onclick="location.href='#traditional-upright'">Traditional Upright Headstones</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#flat-markers'">Flat Markers</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#bevel-markers'">Bevel Markers</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#slant-markers'">Slant Markers</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#teardrop-heart'">Teardrop and Heart Uprights</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#infant-markers'">Infant Markers</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#pet-markers'">Pet Markers</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#mausoleums'">Mausoleums</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#bench'">Bench Memorials</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#cremation'">Cremation Memorials</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#portraits-etchings'">Portraits and Etchings</button>
-    <button type="button" class="btn jump-btn" onclick="location.href='#vases'">Vases</button>
+    <button type="button" class="btn jump-btn">Traditional Upright Headstones</button>
+    <button type="button" class="btn jump-btn">Flat Markers</button>
+    <button type="button" class="btn jump-btn">Bevel Markers</button>
+    <button type="button" class="btn jump-btn">Slant Markers</button>
+    <button type="button" class="btn jump-btn">Teardrop and Heart Uprights</button>
+    <button type="button" class="btn jump-btn">Infant Markers</button>
+    <button type="button" class="btn jump-btn">Pet Markers</button>
+    <button type="button" class="btn jump-btn">Mausoleums</button>
+    <button type="button" class="btn jump-btn">Bench Memorials</button>
+    <button type="button" class="btn jump-btn">Cremation Memorials</button>
+    <button type="button" class="btn jump-btn">Portraits and Etchings</button>
+    <button type="button" class="btn jump-btn">Vases</button>
 </div>
 
 <div>
 
     <!-- TRADITIONAL UPRIGHT -->
-    <div class="section" id="traditional-upright">
+    <div class="section" id="traditional-upright-headstones">
 
         <div class="section-image product-image-left carousel slide" id="carouselTraditional" data-interval="false">
             <div class="carousel-inner">
@@ -204,7 +204,7 @@ get_header();
     </div>
 
     <!-- TEARDROP AND HEART UPRIGHTS -->
-    <div class="section" id="teardrop-heart">
+    <div class="section" id="teardrop-and-heart-uprights">
 
         <div class="section-image product-image-left carousel slide" id="carouselSpecial" data-interval="false">
             <div class="carousel-inner">
@@ -354,7 +354,7 @@ get_header();
     </div>
 
     <!-- BENCH MEMORIALS -->
-    <div class="section" id="bench">
+    <div class="section" id="bench-memorials">
 
         <div class="section-image product-image-left carousel slide" id="carouselBench" data-interval="false">
             <div class="carousel-inner">
@@ -389,7 +389,7 @@ get_header();
     </div>
 
     <!-- CREMATION MEMORIALS -->
-    <div class="section reverse-section" id="cremation">
+    <div class="section reverse-section" id="cremation-memorials">
 
         <div class="section-image product-image-right carousel slide" id="carouselCremation" data-interval="false">
             <div class="carousel-inner">
@@ -424,7 +424,7 @@ get_header();
     </div>
 
     <!-- PORTRAITS AND ETCHINGS -->
-    <div class="section" id="portraits-etchings">
+    <div class="section" id="portraits-and-etchings">
 
         <div class="section-image product-image-left carousel slide" id="carouselEtchings" data-interval="false">
             <div class="carousel-inner">
@@ -495,11 +495,11 @@ get_header();
     </div>
     <div class="return-to-top">
         <!--<a class="return-to-top-link" href="#jump-to">Return to top</a>-->
-        <button type="button" class="btn jump-btn return-to-top-button" onclick="location.href='#jump-to'"><i class="fa fa-angle-double-up"></i> Return to top</button>
+        <button type="button" class="btn return-btn return-to-top-button" ><i class="fa fa-angle-double-up"></i> Return to top</button>
     </div>
 </div>
 
-
+<!--onclick="location.href='#jump-to'"-->
 
 
 <?php get_footer(); ?>

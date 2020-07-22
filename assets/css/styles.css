@@ -261,6 +261,7 @@ img {
     bottom: 0;
     padding: 2rem;
     text-align: right;
+    z-index: 2;
 }
 
 .return-to-top-link {
@@ -391,7 +392,7 @@ h1.contact-header {
     margin-right: 20px;
 }
 
-.jump-btn{
+.jump-btn, .return-btn{
     background-color: #19293E;
     border-radius: 20px;
     /*border: 3px solid #57BC90;*/
