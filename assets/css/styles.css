@@ -277,19 +277,24 @@ img {
     width: 60%;
 }
 
-.about-image-right {
-    width: 40%;
-    padding-left: 7rem;
+.about-section-text-right {
+    width: 50%;
 }
 
 .about-image-left {
-    width: 40%;
-    padding-right: 7rem;
+    padding-top: 0;
 }
 
 .about-section {
+    margin-bottom: 40px;
+}
+
+.about-section-two {
     align-items: flex-start;
-    margin-bottom: 100px;
+}
+
+.abt-pg-bottom-pic {
+    padding-top: 3rem;
 }
 
 /* CONTACT */
@@ -576,6 +581,16 @@ a, a:hover {
     .contact-pg-section:not(:last-child) {
         margin-right: 5%;
     }
+
+    .about-image-left {
+        transform: none;
+    }
+
+    
+
+    .about-section-text {
+        max-width: 100%;
+    }
 }
 
 /* home page */
@@ -613,6 +628,15 @@ a, a:hover {
     .footer-maininfo {
         padding-left: 0;
     }
+
+    .about-section {
+        margin-bottom: 25px;
+    }
+
+    .about-section-text, .about-section-text-right {
+        width: 100%;
+    }
+
 }
 
 @media (max-width: 755px){
