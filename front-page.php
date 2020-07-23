@@ -12,7 +12,7 @@
         <!-- ABOUT SECTION -->
         <div class="section first-section">
 
-            <div class="section-image about-image">
+            <div class="section-image left-image">
                 <img class="about-img" src="<?php bloginfo('template_directory'); ?>/assets/images/summary-img.jpg">
             </div>
 
@@ -31,9 +31,9 @@
         </div>
 
         <!-- PRODUCTS SECTION -->
-        <div class="section products-section">
+        <div class="section reverse-section">
 
-            <div class="section-image products-image carousel slide" id="carouselProducts" data-interval="false">
+            <div class="section-image right-image carousel slide" id="carouselProducts" data-interval="false">
                 <div class="carousel-inner">
                     <div class="carousel-item active"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/traditional8.jpg"></div>
                     <div class="carousel-item"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/heart6.jpg"></div>
@@ -172,6 +172,7 @@
                 <button type="button" class="btn" onclick="location.href ='faq'">View More</button>
             </div>
         </div>
-                
+  
 
+        
 <?php get_footer();?>

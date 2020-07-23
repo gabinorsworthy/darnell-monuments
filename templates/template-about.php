@@ -3,10 +3,12 @@
 get_header();
 ?>
 
+
+
 <!-- OUR STORY -->
 <div class="section reverse-section about-section">
 
-    <div class="section-image products-image about-image-right">
+    <div class="section-image right-image about-image-right">
         <img class="about-img" src="<?php bloginfo('template_directory'); ?>/assets/images/our-story.jpg">
     </div>
 
@@ -28,7 +30,7 @@ get_header();
 <!-- SECOND SECTION -->
 <div class="section about-section about-section-two">
 
-    <div class="section-image about-image about-image-left">
+    <div class="section-image left-image about-image-left">
         <img src="<?php bloginfo('template_directory'); ?>/assets/images/abt-pg-monument.jpg">
     </div>
 
@@ -50,29 +52,9 @@ get_header();
 
 </div>
 
-<!--
-<div class="section about-section">
-
-    <div class="about-image-left">
-        <img src="https://via.placeholder.com/200x200.png">
-    </div>
-
-    <div class="about-section-text">
-        <h4 class="description">
-            
-        </h4>
-    </div>
-
-    
-
-</div>
--->
 <div class="section abt-pg-bottom-pic">
     <img src="<?php bloginfo('template_directory'); ?>/assets/images/hero.jpg">
 </div>
-
-
-
 
 
 

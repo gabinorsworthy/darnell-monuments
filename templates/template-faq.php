@@ -4,6 +4,7 @@ get_header();
 ?>
 
 
+
 <!-- PAGE INTRO -->
 <div class="section page-intro" id="jump-to">
 
@@ -63,28 +64,6 @@ get_header();
                 </h5>
             </div>
         </div>
-
-        <!-- Question 2 -->
-        <!--
-        <div class="card mb-3">
-            <div class="card-header" role="tab" id="questionTwo">
-                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseTwo" aria-expanded="false" area-controls="collapseTwo">
-                    What happens once I've picked my stone and design?
-                </a>
-            </div>
-
-            <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="questionTwo" data-parent="#faq">
-                <h5 class="card-body">
-                    Once you decide on the design of your monument. You will receive a computer
-                    generated printout by mail, text, or email. This will allow you to see what your
-                    design will look like. This is also an opportunity for you to proof the spelling and
-                    dates and the final look of the design. We will ask you to sign the printout and
-                    return it, or text, or email that you approve of the design. This will allow us to
-                    start work on the monument once half payment is made.
-                </h5>
-            </div>
-        </div>
--->
     
         <!-- Question 3 -->
         <div class="card mb-3">
