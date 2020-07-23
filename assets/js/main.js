@@ -11,7 +11,7 @@ function myFunction() {
     }
 }
 
-$(".return-to-top-button").click(function() {
+$(".return-btn").click(function() {
     $('html, body').animate({
         scrollTop: $("#jump-to").offset().top
     }, 2000);
