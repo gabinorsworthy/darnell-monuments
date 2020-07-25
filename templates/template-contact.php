@@ -23,6 +23,8 @@ get_header();
                 <h4><i>Open By Appointment Only</i></h4>
                 <h4 class="contact-no-break">Monday-Friday</h4>
                 <h4>9:00 a.m. - 4:30 p.m.</h4>
+                <h4 class="contact-no-break">Saturday</h4>
+                <h4><i>By Appointments Only</i></h4>
             </div>
 
             <div class="contact-pg-section">
