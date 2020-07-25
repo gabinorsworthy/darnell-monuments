@@ -10,7 +10,7 @@
                     <div>
 
                         <h4 class="quote quote-top">We're based in Mayfield, Kentucky.</h4>
-                        <h5 class="quote quote-bottom">We're happy to work with clients from all over. Get in touch with us!</h5>
+                        <h5 class="quote quote-bottom">We're here to create a lasting tribute to honor your loved ones. Get in touch with us!</h5>
                     </div>
                 </div>
 
@@ -26,9 +26,11 @@
 
                 <ul class="quicklinks hours">
                     <li class="quicklink-title">HOURS</li>
-                    <li class="quicklink quicklink-break"><i>Open by Appointments only</i></li>
+                    <li class="quicklink quicklink-break"><i>Open By Appointments Only</i></li>
                     <li class="quicklink">Monday-Friday</li>
-                    <li class="quicklink">9:00 a.m. - 4:30 p.m.</li>
+                    <li class="quicklink quicklink-break">9:00 a.m. - 4:30 p.m.</li>
+                    <li class="quicklink">Saturday</li>
+                    <li class="quicklink"><i>By Appointments Only</i></li>
                 </ul>
 
                 <ul class="quicklinks footer-nav">
@@ -54,9 +56,11 @@
 
                 <ul class="quicklinks hours-responsive">
                     <li class="quicklink-title">HOURS</li>
-                    <li class="quicklink"><i>Open by Appointments only</i></li>
+                    <li class="quicklink"><i>Open By Appointments Only</i></li>
                     <li class="quicklink">Monday-Friday</li>
-                    <li class="quicklink">9:00 a.m. - 4:30 p.m.</li>
+                    <li class="quicklink quicklink-break">9:00 a.m. - 4:30 p.m.</li>
+                    <li class="quicklink">Saturday</li>
+                    <li class="quicklink"><i>By Appointments Only</i></li>
                 </ul>
 
             </div>

@@ -64,21 +64,6 @@ get_header();
                 </h5>
             </div>
         </div>
-    
-        <!-- Question 3 -->
-        <div class="card mb-3">
-            <div class="card-header" role="tab" id="questionThree">
-                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseThree" aria-expanded="false" area-controls="collapseThree">
-                    Do I have to buy a monument from the funeral home or cemetery?
-                </a>
-            </div>
-
-            <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="questionThree" data-parent="#faq">
-                <h5 class="card-body">
-                    No, they are lawfully unable to force you to purchase a monument from them.
-                </h5>
-            </div>
-        </div>
 
         <!-- Question 4 -->
         <div class="card mb-3">
@@ -197,22 +182,6 @@ get_header();
             </div>
         </div>
 
-        <!-- Question 7 -->
-        <div class="card mb-3">
-            <div class="card-header" role="tab" id="questionSeven">
-                <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseSeven" aria-expanded="false" area-controls="collapseSeven">
-                    What materials are used in monuments?
-                </a>
-            </div>
-
-            <div id="collapseSeven" class="collapse" role="tabpanel" aria-labelledby="questionSeven" data-parent="#faq">
-                <h5 class="card-body">
-                    Granite is the most popular type
-                    of monument. Granite withstands extreme climates and temperatures.
-                </h5>
-            </div>
-        </div>
-
         <h3 class="faq-heading">Pricing and Payment</h3>
 
         <!-- Question 8 -->
@@ -253,7 +222,7 @@ get_header();
         <div class="card mb-3">
             <div class="card-header" role="tab" id="questionEleven">
                 <a class="collapsed text-decoration-none question" data-toggle="collapse" data-parent="#faq" href="#collapseEleven" aria-expanded="false" area-controls="collapseEleven">
-                    Do you chorge for lettering and setting the stone?
+                    Do you charge for lettering and setting the stone?
                 </a>
             </div>
 
