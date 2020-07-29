@@ -40,7 +40,7 @@ get_header();
             <div id="collapseOne" class="collapse" role="tabpanel" aria-labelledby="questionOne" data-parent="#faq">
                 <h5 class="card-body">
                     The first step is to decide the size, shape, and color of your stone. We have
-                    pictures of different kinds of stones for you to look at. Also, I suggest that you
+                    pictures of different kinds of stones for you to look at. Also, we suggest that you
                     drive through a few cemeteries and look for something that you like. If you see
                     something that catches your eye, take a picture of it and share it with us. We can
                     get any stone you see and match any design that you see.
@@ -55,7 +55,7 @@ get_header();
                     comments or pictures of hobbies, interests, etc. We have many examples to
                     choose from.
                     <br/><br/>
-                    Once you decide on the design of your monument. You will receive a computer
+                    Once you decide on the design of your monument, you will receive a computer
                     generated printout by mail, text, or email. This will allow you to see what your
                     design will look like. This is also an opportunity for you to proof the spelling and
                     dates and the final look of the design. We will ask you to sign the printout and
@@ -146,7 +146,7 @@ get_header();
 
             <div id="collapseEngraving" class="collapse" role="tabpanel" aria-labelledby="questionEngraving" data-parent="#faq">
                 <h5 class="card-body">
-                    We do the engraving on-site. Our granite is from the finest quarries and we define
+                    We do the engraving on-site. Our granite is from the finest quarries and we do fine
                     craftsmanship.
                 </h5>
             </div>
