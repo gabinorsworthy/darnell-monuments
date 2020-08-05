@@ -100,6 +100,9 @@ get_header();
                     stones. These small granite markers can also be engraved with addresses, special
                     dates, memory verses, nick names, even titles of special songs. The possibilities
                     are endless.
+
+                    See our online listing
+                    <a target="_blank" href="https://www.ebay.com/itm/10-X-5-X-4-Custom-Engraved-Granite-Memorial-Headstone-for-Loved-Ones-and-Pets-/313169976632">here</a>.
                 </h5>
             </div>
         </div>
