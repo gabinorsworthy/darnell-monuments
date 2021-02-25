@@ -60,6 +60,33 @@ get_header();
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional9.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional10.jpg"></div>
 
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional11.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional12.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional13.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional14.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional15.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional16.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional17.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional18.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional19.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional20.jpg"></div>
+
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional21.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional22.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional23.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional24.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional25.png"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional26.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional27.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional28.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional29.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional30.jpg"></div>
+
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional31.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional32.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional33.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/traditional34.jpg"></div>
+
                 <a class="carousel-control-prev" href="#carouselTraditional" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
@@ -99,6 +126,10 @@ get_header();
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat2.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat3.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat4.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat5.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat6.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat7.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/flat8.jpg"></div>
 
                 <a class="carousel-control-prev" href="#carouselFlat" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -138,6 +169,11 @@ get_header();
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel2.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel3.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel4.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel5.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel6.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel7.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel8.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/bevel9.jpg"></div>
 
                 <a class="carousel-control-prev" href="#carouselBevel" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -176,6 +212,8 @@ get_header();
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant2.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant3.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant4.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant5.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/slant6.jpg"></div>
 
                 <a class="carousel-control-prev" href="#carouselSlant" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -212,15 +250,25 @@ get_header();
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/teardrop1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/teardrop2.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/teardrop3.jpg"></div>
+
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/heart1.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/heart2.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/heart3.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/heart4.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/heart5.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/heart6.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/heart7.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/heart8.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/heart9.jpg"></div>
+
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special1.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special2.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special3.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special4.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special5.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special6.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special7.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special8.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special9.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special10.jpg"></div>
-                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/special11.jpg"></div>
 
                 <a class="carousel-control-prev" href="#carouselSpecial" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -261,6 +309,9 @@ get_header();
             <div class="carousel-inner">
                 <div class="carousel-item active"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant1.jpg"></div>
                 <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant2.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant3.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant4.jpg"></div>
+                <div class="carousel-item"><img src="<?php bloginfo('template_directory'); ?>/assets/images/infant5.jpg"></div>
 
                 <a class="carousel-control-prev" href="#carouselInfant" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>

@@ -1,11 +1,17 @@
-<?php get_header();?>
+<?php
+get_header();
+
+$hero_text = get_field('landing_page_slogan');
+$hero_img = get_field('hero_header_image');
+?>
         
         <!-- HEADER IMAGE -->
-        <div class="header-container text-center" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('<?php bloginfo('template_directory'); ?>/assets/images/hero.jpg');">
+        <div class="header-container text-center" style="background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('<?php echo $hero_img; ?>');">
+        
             <div class="header-description">
-                <h1 class="hero-text">Welcome to Darnell Monuments.<br/>We are here to help you create a lasting tribute to honor your loved ones.</h1>
+
+                <h1 class="hero-text"><?php echo $hero_text; ?></h1>
                 <button type="button" class="header-btn btn" onclick="location.href ='products'">View Products</button>
-                
             </div>
         </div>
         
@@ -42,6 +48,7 @@
                     <div class="carousel-item"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/slant1.jpg"></div>
                     <div class="carousel-item"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/etchings2.jpg"></div>
                     <div class="carousel-item"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/bench3.jpg"></div>
+                    <div class="carousel-item"><img class="products-img" src="<?php bloginfo('template_directory'); ?>/assets/images/special6.jpg"></div>
 
                     <a class="carousel-control-prev" href="#carouselProducts" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
