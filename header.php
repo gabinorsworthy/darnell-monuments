@@ -17,6 +17,18 @@
     <body>
         
         <!-- NAVIGATION BAR -->
+        
+        <div>
+            <h5 class="notice-title">
+                IMPORTANT NOTICE:
+            </h5>
+            <h6 class="notice-note">
+                Due to Covid-19, we are not accepting walk-ins. Please call to schedule an appointment.<br>
+            </h6>
+            <h6 class="notice-link-section">
+                <a class="notice-link" href="tel:2702478858">270-247-8858</a>
+            </h6>
+        </div>
 
         <div class="header-logo">
             

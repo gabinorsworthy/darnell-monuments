@@ -97,6 +97,27 @@ a.active {
     color: #57BC90;
 }
 
+/* COVID NOTICE */
+.notice-title, .notice-note, .notice-link-section {
+    background-color: #57BC90;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.notice-title, .notice-note {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.notice-link {
+    color: black;
+}
+
+.notice-title, .notice-link:hover {
+    color: white;
+}
+
 
 
 
