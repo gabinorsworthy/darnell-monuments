@@ -18,7 +18,7 @@
 
                 <ul class="quicklinks">
                     <li class="quicklink-title">CONTACT</li>
-                    <li class="quicklink"><a class="footer-link" href="mailto:darnellmonuments@yahoo.com">darnellmonuments@yahoo.com</a></li>
+                    <li class="quicklink"><a class="footer-link" href="mailto:darnell.monuments@yahoo.com">darnell.monuments@yahoo.com</a></li>
                     <li class="quicklink quicklink-break"><a class="footer-link" href="tel:2702478858">270-247-8858</a></li>
                     <li class="quicklink">227 Fox Rd</li>
                     <li class="quicklink">Mayfield, KY 42066</li>

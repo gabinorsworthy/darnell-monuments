@@ -15,7 +15,7 @@ get_header();
             <div class="contact-pg-section">
                 <h4><strong>Phone: </strong><a class="contact-link" href="tel:2702478858">270-247-8858</a></h4>
                 <h4><strong>Fax: </strong>270-247-8858</h4>
-                <h4><strong>Email: </strong><a class="contact-link" href="mailto:darnellmonuments@yahoo.com">darnellmonuments@yahoo.com</a></h4>
+                <h4><strong>Email: </strong><a class="contact-link" href="mailto:darnell.monuments@yahoo.com">darnell.monuments@yahoo.com</a></h4>
             </div>
 
             <div class="contact-pg-section">
